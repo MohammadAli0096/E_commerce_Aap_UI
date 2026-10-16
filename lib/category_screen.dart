@@ -57,13 +57,7 @@ class CategoryScreen extends StatelessWidget {
         ),
         body: Column(
           children: [
-            // TabBarView(
-            //   children: [
-            //     Tab(icon: Icon(Icons.man, color: Colors.amber)),
-            //     Tab(icon: Icon(Icons.woman, color: Colors.amber)),
-            //     Tab(icon: Icon(Icons.child_care, color: Colors.amber)),
-            //   ],
-            // ),
+           
             TabBar(
               tabs: [
                 Tab(
